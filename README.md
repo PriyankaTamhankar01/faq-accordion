@@ -24,6 +24,10 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
+## Built with
+- HTML
+- CSS
+- JS
 ## Deployed Solution 
 
 - [GitHub](https://priyankatamhankar01.github.io/faq-accordion/)
