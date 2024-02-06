@@ -28,9 +28,13 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 - HTML
 - CSS
 - JS
-## Deployed Solution 
+## Deployed Live Solution 
 
 - [GitHub](https://priyankatamhankar01.github.io/faq-accordion/)
+
+## Author
+
+- Frontend Mentor - [PriyankaTamhankar01](https://www.frontendmentor.io/profile/PriyankaTamhankar01)
 
 ## Giving feedback
 
