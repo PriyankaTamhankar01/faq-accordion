@@ -24,6 +24,14 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
+## Deployed Solution 
 
+- [GitHub](https://priyankatamhankar01.github.io/faq-accordion/)
+
+## Giving feedback
+
+Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
+
+This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
